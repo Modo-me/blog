@@ -12,19 +12,13 @@ draft: false
 ### MVVM即Model、View和ViewModel
 
 - View层:
-    
     **UI界面，对的，记住它就仅仅是个UI**
-
 - ViewModel层:
-
     **View要用到的所有数据和方法，嗯，data和function，所以它在Swift中通常是个class**
-
 - Mode层l:
-
     **底层数据和业务逻辑，在这个例子中包括向后端发出请求的底层方法，以及对应得到的json数据转换为的结构体**
     
 ### 用ViewModel是为了视图和业务逻辑之间的解耦
-
 从我的项目文件结构中应该能更加清晰说明这个：
 
     -CommentSystem
@@ -44,7 +38,6 @@ draft: false
 >  *" **the View “knows” about the VM, but the VM knows nothing of the View. This is the blindest date ever** "* 
     
 MVVM实现的是单向数据流，Model提供接口给到ViewModel,再通过ViewModel提供接口给到View
-
 ### Swift中的实现
 
 Model是底层上通用的一些数据和业务逻辑，自然就不用多提了
@@ -115,7 +108,6 @@ init(service: PageServiceProtocol) {
     }
 ```
 这里用到的service就是由Model提供上来的接口，viewModel中的所有字段和方法均由Model提供的数据和方法来实现
-
 #### 接下来是View去调用
 原项目ui代码太多太杂了，以下为一个简化过了的实现：
 ```swift
@@ -165,8 +157,7 @@ public struct ContentView: View {
 
 通过@ObservedObject监听ObservableObject即ViewModel的变化
 当@Published变量改变时刷新View
-
 public var body: some View{···}中的内容为具体的界面ui，可以看到全都采用ViewModel实例提供的数据和方法来实现
 
-ui界面如下：
+最终ui界面如下：
 ![](./ui.png)

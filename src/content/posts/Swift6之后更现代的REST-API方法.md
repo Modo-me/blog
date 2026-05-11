@@ -8,10 +8,9 @@ draft: false
 
 目前网上检索到的关于Swift的REST API Call实现很多已经在swift6之后算是过时了的，Swift6强化了并发安全，以及URLsession API也相应增加了async版本（旧版本使用callback），更modern的方法是使用async/await以及Task来构建REST API Call
 
-以下均使用URLsession进行REST API Call
+以下均使用URLsession进行REST API Call：
 
 在旧版Swift中, Get接口是这么call的
-
 ```swift
         func fetchPage(completion: @escaping (Result<PageData, Error>) -> Void) {
 

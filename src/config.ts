@@ -44,11 +44,19 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Home,
 		LinkPreset.Archive,
 		LinkPreset.About,
-		{
+		{ 
+			name: "Friends",
+		  	url: "/friends/" 
+		},
+		{ 
+			name: "和Modo表白😘",
+		  	url: "/love/" 
+		},	
+		/*{
 			name: "GitHub",
 			url: "https://github.com/saicaca/fuwari", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
-		},
+		},*/
 	],
 };
 
@@ -76,7 +84,7 @@ export const profileConfig: ProfileConfig = {
 };
 
 export const licenseConfig: LicenseConfig = {
-	enable: true,
+	enable: false,
 	name: "CC BY-NC-SA 4.0",
 	url: "https://creativecommons.org/licenses/by-nc-sa/4.0/",
 };

@@ -4,7 +4,7 @@ type: "Companions"
 ---
 
 ### [CaPoωo's Blog](https://capoo.me/)
-<img src="../images/capoo.jpg" width="120" align="right" style="margin-left: 12px;" />
+<img src="https://www.google.com/s2/favicons?domain=capoo.me&sz=128" width="120" align="right" style="margin-left: 12px;" />
 
 这是  
 一只猫猫虫

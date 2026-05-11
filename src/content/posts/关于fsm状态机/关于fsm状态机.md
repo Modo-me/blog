@@ -1,12 +1,11 @@
 ---
 title: 关于FSM状态机
 published: 2025-12-01
-description: 本篇基于Modo在写<a href="https://modrinth.com/mod/flee-on-sight">*Flee On Sight*</a>时的感想
 tags: [Minecraft, Mods]
 category: Minecraft modding
 draft: false
 ---
-
+# 本篇基于Modo在写<a href="https://modrinth.com/mod/flee-on-sight">*Flee On Sight*</a>时的感想
 ### 对于较复杂的状态判断，有一种更好的方法
 #### 为什么不用if-else ?:
 首先，对于大量子状态的判定会在这种boolean的判定中越来越冗长，如果是写了辅助方法来包装则会有层层嵌套的问题，而且对于几个不相关的子boolean强行包装成一个辅助boolean会导致可读性下降，最终整体的状态判定会很难维护

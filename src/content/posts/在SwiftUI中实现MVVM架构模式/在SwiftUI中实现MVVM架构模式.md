@@ -1,13 +1,13 @@
 ---
 title: 在SwiftUI中实现MVVM架构模式
 published: 2026-02-26
-description: 好不容易熬完期末周，不想睡觉
 tags: [Swift]
 category: 技术总结
+description: 用Swift写了一个从后端获取数据来展示话题和评论的客户端, 顺便学用了MVVM模式
 draft: false
 ---
 
-用Swift写了一个从后端获取数据来展示话题和评论的Mac客户端, 用了MVVM模式
+> 用Swift写了一个从后端获取数据来展示话题和评论的客户端, 顺便学用了MVVM模式
 
 ### MVVM即Model、View和ViewModel
 

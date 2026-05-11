@@ -7,6 +7,8 @@ category: Minecraft modding
 draft: false
 ---
 
+> 祝生物钟倒转的三天新年快乐🎆
+
 基于上次的状态机：
 
 ![](./pasted-1.png)

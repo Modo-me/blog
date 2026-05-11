@@ -6,7 +6,7 @@ category: 技术总结
 draft: false
 ---
 
- - 为防止init_commit的重复创建，应把init_commit写入.gitlet,一次创建，其他地方直接引用 
+ - 为防止init_commit的重复创建，应把init_commit写入.gitlet，一次创建，其他地方直接引用 
 - sha接受byte数组，需要readContents先转化为 byte[]
 - 暂存区分tobeadded和tobeDeleted两种
 - 获取timeStamp:

@@ -64,12 +64,12 @@ export const profileConfig: ProfileConfig = {
 		},
 		{
 			name: "QQ",
-			icon: "fa-brands fa-qq",
+			icon: "fa6-brands:qq",
 			url: " https://tool.gljlw.com/qq/?qq=705332469",
 		},
 		{
 			name: "email",
-			icon: "fa-solid fa-envelope",
+			icon: "fa6-solid:envelope",
 			url: " https://tool.gljlw.com/qq/?qq=705332469",
 		},
 	],

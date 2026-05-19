@@ -13,6 +13,7 @@ import ImageWrapper from "../../components/misc/ImageWrapper.astro";
 import PostMetadata from "../../components/PostMeta.astro";
 import { profileConfig, siteConfig } from "../../config";
 import { formatDateToYYYYMMDD } from "../../utils/date-utils";
+import GiscusComment from "../../components/misc/GiscusComment.astro";
 
 export async function getStaticPaths() {
 	const blogEntries = await getSortedPosts();
@@ -132,5 +133,7 @@ const jsonLd = {
             </div>}
         </a>
     </div>
+
+    <GiscusComment repo="Modo-me/blog" repoId="R_kgDOSaKnkw" category="Announcements" categoryId="DIC_kwDOSaKnk84C9Y_d" reactionsEnabled={false} />
 
 </MainGridLayout>

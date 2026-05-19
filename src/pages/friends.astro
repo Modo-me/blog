@@ -5,6 +5,7 @@ import Markdown from "@components/misc/Markdown.astro";
 import I18nKey from "../i18n/i18nKey";
 import { i18n } from "../i18n/translation";
 import MainGridLayout from "../layouts/MainGridLayout.astro";
+import GiscusComment from "../components/misc/GiscusComment.astro";
 
 const aboutPost = await getEntry("spec", "friends");
 
@@ -20,6 +21,8 @@ const { Content } = await render(aboutPost);
             <Markdown class="mt-2">
                 <Content />
             </Markdown>
+            <GiscusComment repo="Modo-me/blog" repoId="R_kgDOSaKnkw" category="Announcements" categoryId="DIC_kwDOSaKnk84C9Y_d" />
         </div>
     </div>
+
 </MainGridLayout>

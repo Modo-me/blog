@@ -3,7 +3,7 @@ title: 从FSM进阶到HFSM
 published: 2026-01-04
 description: 祝生物钟倒转的三天新年快乐🎆
 tags: [Minecraft, Mods]
-category: Minecraft modding
+category: 技术总结
 draft: false
 ---
 

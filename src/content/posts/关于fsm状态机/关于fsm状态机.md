@@ -2,7 +2,7 @@
 title: 关于FSM状态机
 published: 2025-12-01
 tags: [Minecraft, Mods]
-category: Minecraft modding
+category: 技术总结
 draft: false
 ---
 # 本篇基于Modo在写<a href="https://modrinth.com/mod/flee-on-sight">*Flee On Sight*</a>时的感想

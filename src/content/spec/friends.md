@@ -50,7 +50,7 @@ type: "Companions"
       <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://www.acdblog.cn/" target="_blank">降噪的Blog</a></h3>
       <p style="margin: 0; color: var(--text-muted, #666);">https://www.acdblog.cn</p>
     </div>
-    <img src="![jz](assets/jz.jpg)" width="60" height="60" style="border-radius: 50%; object-fit: cover; margin-left: 12px;" />
+    <img src="assets/jz.jpg" width="60" height="60" style="border-radius: 50%; object-fit: cover; margin-left: 12px;" />
   </div>
 
 </div>

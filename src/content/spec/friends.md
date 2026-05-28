@@ -43,6 +43,15 @@ type: "Companions"
     </div>
     <img src="https://hanhan-qwq.github.io/avatar.jpg" width="60" height="60" style="border-radius: 50%; object-fit: cover; margin-left: 12px;" />
   </div>
+  
+  <!-- 卡片 5: 降噪的Blog -->
+  <div style="flex: 0 0 calc(50% - 8px); box-sizing: border-box; min-width: 250px; padding: 16px; border: 1px solid var(--border-color, #eee); border-radius: 8px; display: flex; justify-content: space-between; align-items: center;">
+    <div>
+      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://www.acdblog.cn/" target="_blank">降噪的Blog</a></h3>
+      <p style="margin: 0; color: var(--text-muted, #666);">https://www.acdblog.cn</p>
+    </div>
+    <img src="![jz](assets/jz.jpg)" width="60" height="60" style="border-radius: 50%; object-fit: cover; margin-left: 12px;" />
+  </div>
 
 </div>
 

@@ -14,7 +14,7 @@ type: "Companions"
       <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://capoo.me/" target="_blank">CaPoωo's Blog</a></h3>
       <p style="margin: 0; color: var(--text-muted, #666);">这是一只猫猫虫</p>
     </div>
-    <img src="https://www.google.com/s2/favicons?domain=capoo.me&sz=128" width="60" height="60" style="border-radius: 50%; object-fit: cover; margin-left: 12px;" />
+    <img src="https://www.google.com/s2/favicons?domain=capoo.me&sz=128" width="70" height="70" style="border-radius: 50%; object-fit: cover; margin-left: 12px; box-shadow: 0 0 0 6px rgba(128,128,128,0.2);" />
   </div>
 
   <!-- 卡片 2: Smallfang -->
@@ -23,7 +23,7 @@ type: "Companions"
       <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://blog.smallfang.fun" target="_blank">Smallfang</a></h3>
       <p style="margin: 0; color: var(--text-muted, #666);">这是 smallfang</p>
     </div>
-    <img src="https://file.rotriw.com/static/smallfang_avatar.png" width="60" height="60" style="border-radius: 50%; object-fit: cover; margin-left: 12px;" />
+    <img src="https://file.rotriw.com/static/smallfang_avatar.png" width="70" height="70" style="border-radius: 50%; object-fit: cover; margin-left: 12px; box-shadow: 0 0 0 6px rgba(128,128,128,0.2);" />
   </div>
 
   <!-- 卡片 3: Veno's Blog -->
@@ -32,7 +32,7 @@ type: "Companions"
       <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://v3n0.top/" target="_blank">Veno's Blog</a></h3>
       <p style="margin: 0; color: var(--text-muted, #666);">Worse is better</p>
     </div>
-    <img src="https://v3n0.top/avatar-veno_hu954623110380107494.jpg" width="60" height="60" style="border-radius: 50%; object-fit: cover; margin-left: 12px;" />
+    <img src="https://v3n0.top/avatar-veno_hu954623110380107494.jpg" width="70" height="70" style="border-radius: 50%; object-fit: cover; margin-left: 12px; box-shadow: 0 0 0 6px rgba(128,128,128,0.2);" />
   </div>
   
   <!-- 卡片 4: HANHAN的Blog -->
@@ -41,7 +41,7 @@ type: "Companions"
       <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://hanhan-qwq.github.io/" target="_blank">HANHAN的Blog</a></h3>
       <p style="margin: 0; color: var(--text-muted, #666);">https://hanhan-qwq.github.io</p>
     </div>
-    <img src="https://hanhan-qwq.github.io/avatar.jpg" width="60" height="60" style="border-radius: 50%; object-fit: cover; margin-left: 12px;" />
+    <img src="https://hanhan-qwq.github.io/avatar.jpg" width="70" height="70" style="border-radius: 50%; object-fit: cover; margin-left: 12px; box-shadow: 0 0 0 6px rgba(128,128,128,0.2);" />
   </div>
   
   <!-- 卡片 5: 降噪的Blog -->
@@ -50,7 +50,7 @@ type: "Companions"
       <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://www.acdblog.cn/" target="_blank">降噪的Blog</a></h3>
       <p style="margin: 0; color: var(--text-muted, #666);">https://www.acdblog.cn</p>
     </div>
-    <img src="assets/jz.jpg" width="60" height="60" style="border-radius: 50%; object-fit: cover; margin-left: 12px;" />
+    <img src="/images/jz.jpg" width="70" height="70" style="border-radius: 50%; object-fit: cover; margin-left: 12px; box-shadow: 0 0 0 6px rgba(128,128,128,0.2);" />
   </div>
 
 </div>

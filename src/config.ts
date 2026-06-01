@@ -71,7 +71,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Modo",
-	bio: "Audentes fotuna iuvat",
+	bio: "Audentes fortuna iuvat!",
 	links: [
 		{
 			name: "GitHub",
@@ -86,7 +86,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "email",
 			icon: "fa6-solid:envelope",
-			url: " https://tool.gljlw.com/qq/?qq=705332469",
+			url: "mailto:witty8010@outlook.com",
 		},
 	],
 };

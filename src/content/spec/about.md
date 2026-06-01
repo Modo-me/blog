@@ -12,10 +12,8 @@
 <div style="margin-top: 0px; display: flex; flex-wrap: wrap; gap: 0 16px; font-size: 18px; opacity: 0.6; font-style: italic;">
   <span># Minecraft</span>
   <span># Neuro-sama</span>
-  <span># galgame</span>
   <span># 罕见的八月厨</span>
   <span># 凯尔特风格</span>
-  <span># 西幻爱好者</span>
 </div>
 
 <!-- 自定义精细横线：上下间距仅 12px -->
